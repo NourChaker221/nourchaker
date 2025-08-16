@@ -32,7 +32,7 @@
 
 ## 🌐 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/nour-chaker-905399251/)  
-- [Email](mailto:nourchakernc@gmail.com)  
+- [Email](mailto:nourchaker02@gmail.com)  
 - [Portfolio Website](https://yourwebsite.com) *(coming soon)*  
 
 ---
