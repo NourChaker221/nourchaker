@@ -26,7 +26,7 @@
 - [📄 CV Classifier Web App (Djagora Internship)](https://github.com/yourusername/cv-classifier)  
 - [🩺 Tuberculosis Detection with CNNs](https://github.com/yourusername/tb-detection)  
 
-*(repos in progress — README-first, code to follow!)*  
+
 
 ---
 
